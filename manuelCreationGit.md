@@ -12,6 +12,7 @@ Choisir votre repertoire fichier dans lequel stocker le clone
 ###
 ou faire 
 cd RepertoireVoulu/
+
 git clone LienDuGit
 
 ## ETAPE 3
