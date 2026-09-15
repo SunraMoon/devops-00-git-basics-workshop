@@ -13,6 +13,9 @@ Choisir votre repertoire fichier dans lequel stocker le clone
 ## ETAPE 3
 Installer , si l on possede , le code fournit par le prof ou autre
 
+Et faire git add .gi
+
+Faire git push 
 ## ETAPE 4
 
 Creer le .gitignore et y mettre au moins node_modules/
@@ -31,6 +34,6 @@ commande : git commit -am " RAISON DE LA MODIFICATION "
 
 Push soit via interfacce soit 
 
-via commande : git push <name of remote repository> < name of branch> 
+via commande : git push 
 
 
