@@ -9,17 +9,21 @@ Créer un repo sur github
 Cloner depuis visual studio
 
 Choisir votre repertoire fichier dans lequel stocker le clone
+###
+ou faire 
+cd RepertoireVoulu/
+git clone LienDuGit
 
 ## ETAPE 3
 Installer , si l on possede , le code fournit par le prof ou autre
 
-Et faire git add .gi
 
-Faire git push 
+
 ## ETAPE 4
 
 Creer le .gitignore et y mettre au moins node_modules/
 
+Et faire git add .
 ## ETAPE 5
 
 Inviter les instructeurs si necessaires
